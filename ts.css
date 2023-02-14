@@ -1,0 +1,51 @@
+*
+	{
+		margin: 0;
+		padding: 0;
+		box-sizing:border-box;
+		border:none;
+	}
+	:root{ font-family:"Papyrus",'Noto Sans',sans-serif;
+		font-size:16px;
+		font-weight:800;
+
+	background-color: #white;
+	}
+	.heading
+	{
+		color:white;
+		margin-left:5%;
+	}
+	
+	.card
+	{background-color:white;
+		margin-left:5% ;
+		margin-right:5% ;
+		margin-top:1%;
+		padding:20px;
+		border-radius:10px;
+		font-size: 15px;
+	}
+	img
+	{
+		float:right;
+	}
+	p{
+		text-align:left;
+
+	}
+
+	
+	section{
+		background-color:#fff;
+		
+		padding:10px 30px;
+		
+
+	}
+	.bgimg
+{
+	background-image: url('https://wallpaperset.com/w/full/a/4/b/475353.jpg');
+	background-size: cover;
+	height:100vh;
+}
